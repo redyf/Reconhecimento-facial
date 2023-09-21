@@ -11,7 +11,7 @@ import Rank from "./components/Rank/Rank";
 
 //You must add your own API key here from Clarifai.
 const app = new Clarifai.App({
-  apiKey: "c82bcae8661f4a48a9d4c0dece21d321",
+  apiKey: "",
 });
 
 class App extends Component {
